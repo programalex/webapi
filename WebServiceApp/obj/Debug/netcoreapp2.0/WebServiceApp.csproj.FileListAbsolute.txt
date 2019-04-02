@@ -1,0 +1,11 @@
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\bin\Debug\netcoreapp2.0\WebServiceApp.deps.json
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\bin\Debug\netcoreapp2.0\WebServiceApp.runtimeconfig.json
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\bin\Debug\netcoreapp2.0\WebServiceApp.runtimeconfig.dev.json
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\bin\Debug\netcoreapp2.0\WebServiceApp.dll
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\bin\Debug\netcoreapp2.0\WebServiceApp.pdb
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.AssemblyInfoInputs.cache
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.AssemblyInfo.cs
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.dll
+C:\Users\pensa\Desktop\Webapi\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp2.0\WebServiceApp.pdb
